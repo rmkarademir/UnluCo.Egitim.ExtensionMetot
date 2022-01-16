@@ -1,0 +1,16 @@
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\bin\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.exe
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\bin\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.deps.json
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\bin\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.runtimeconfig.json
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\bin\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.runtimeconfig.dev.json
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\bin\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.dll
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\bin\Debug\net5.0\ref\UnluCo.Egitim.ExtensionMethod.dll
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\bin\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.pdb
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.csproj.AssemblyReference.cache
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.AssemblyInfo.cs
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.dll
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\ref\UnluCo.Egitim.ExtensionMethod.dll
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.pdb
+C:\Users\ruste\source\repos\UnluCo.Egitim\UnluCo.Egitim.ExtensionMetot\UnluCo.Egitim.ExtensionMetot\obj\Debug\net5.0\UnluCo.Egitim.ExtensionMethod.genruntimeconfig.cache
