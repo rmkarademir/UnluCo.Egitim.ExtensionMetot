@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace UnluCo.Egitim.ExtensionMethod
 {
-    class IsDigitValidationRule : ValidationRule
+    class IsDigitValidationRule : IValidationRule
     {
-        public override bool isValid(string str)
+        public bool isValid(string str)
         {
             return str.Any(x => Char.IsDigit(x));//Sifrede rakam var mi?
         }

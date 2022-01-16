@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace UnluCo.Egitim.ExtensionMethod
 {
-    public abstract class ValidationRule
+    public interface IValidationRule
     {
-        public abstract bool isValid(string str);
+        bool isValid(string str);
     }
 }

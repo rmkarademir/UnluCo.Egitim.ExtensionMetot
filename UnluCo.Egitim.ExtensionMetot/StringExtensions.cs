@@ -8,7 +8,7 @@ namespace UnluCo.Egitim.ExtensionMethod
 {
     public static class PasswordValid
     {
-        public static bool isValidPassword(this string password, ValidationRule[] rules)
+        public static bool isValidPassword(this string password, IValidationRule[] rules)
         {
             bool result = false;
             foreach(var rule in rules)
